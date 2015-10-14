@@ -1,10 +1,15 @@
 .intro-message {
 	text-align: center;
-	padding-top: 28%;
-	padding-bottom: 18%;
+	vertical-align: bottom;
+	padding-top: 20%;
+	padding-bottom: 20%;
 	color: #000000;
 }
 
 body {
 	background:url(Soundwave.jpg) no-repeat center;
+}
+
+.signup-form {
+	color:#000000;
 }
